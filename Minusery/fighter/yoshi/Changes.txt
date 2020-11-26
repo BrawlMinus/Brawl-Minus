@@ -1,8 +1,0 @@
-Can no longer jump in the air for 20 frames after your previous jump.
-This is to prevent Yoshi players from accidentally wasting both of their midair jumps.
-
-Grab:
-    fsm x1.5 moved to cover 1-end instead of 1-15 being x2 and the rest being x1.5
-    
-DashGrab:
-    fsm x1.3 -> fsm x1.18

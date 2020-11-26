@@ -1,3 +1,0 @@
-Turnip Pull:
-Can no longer be performed out of special tumble states (shield break fall, star ko, etc)
-Fixed an RNG related glitch where Peach would not pluck items with the intended frequencies (specifically Peach should now be able to pull green shells)

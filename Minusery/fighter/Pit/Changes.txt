@@ -1,6 +1,0 @@
-dTaunt
-Is now Heavenly Light. Shower foes above you with non-flinching damage while performing this move.
-
-up-b
-Removed the ability to use it more than once. This was done to fix
-Pit being able to gain height infinitely

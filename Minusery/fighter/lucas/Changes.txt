@@ -1,5 +1,0 @@
-uAir
-Now given a tapped variant that does not freeze foes
-
-pk-thunder
-removed stun element
