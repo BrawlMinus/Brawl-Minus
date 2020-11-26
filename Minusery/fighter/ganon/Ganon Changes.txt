@@ -10,3 +10,6 @@ Dash Attack
 
 Gerudo Dragon
     - Fixed this move having Super Armor
+    
+dthrow:
+    damage reduced from 15% -> 8%

@@ -1,1 +1,4 @@
 Item Throw Power reduced from 1.5 to 1.25
+
+Neutral-B:
+    Can cancel arrow draw into roll starting on frame 14

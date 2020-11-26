@@ -1,0 +1,40 @@
+Improved Entry Animation
+
+dTilt
+
+Slightly increased damage
+
+dAir
+Sourspot damage 2 -> 6
+BKB 12 -> 13
+KBG 4 -> 1
+Grounded sweetspot damage 0 -> 10
+Endlag frames 64 -> 52 (same as autocancel)
+Sweetspot sizes 4/4+1/6 -> 6+1/6
+Sweetspot Y offset -10 -> -9
+
+fSmash
+
+Slightly increased damage and knockback growth
+
+dSmash
+Trip rate 0.4% -> 0%
+
+Giga Drain
+Fixed the move's state not converting from air to ground when Ivysaur lands
+
+Neutral-B
+Ivycopter now regained on taking damage
+Ivycopter no longer consumed when falling off the ledge with neutral-b
+Velocity gain on copter .325 -> .335
+Velocity gain without copter .25 -> .275
+Aerial non-copter horizontal drift removed
+Can now be used to meteor cancel
+
+Side-B
+Critical hit active frames 21-27 -> 21-31
+
+02/28/2017
+
+Down Special (Giga Drain)
+Both Ivysaur and its victim gain Super Armor upon a successful grab.
