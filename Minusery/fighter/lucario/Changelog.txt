@@ -1,0 +1,38 @@
+gravity increased 0.0625 -> 0.0665
+Removed self damage on standard utaunt
+removed self damage on max aura sphere charging
+
+Ultra-taunt
+- Now takes lucario up to 999%.
+
+Double Team
+- Grab cancel removed
+- slowed reapper a bit.(fsm=.9)
+
+usmash
+- hitbox 1 size 10 -> 8.5
+- hitbox 1 Y 25 -> 22
+
+fsmash
+- most distant hitbox X pos 18 -> 15.3
+
+dair
+- 4 frames endlag added before cancel
+- 6 frames landing lag added
+- both hits:
+  - hitbox 1 size 6 -> 4.5
+  - hitbox 2 size 7 -> 5.5
+  - hitbox 1 y pos -5 -> -3
+  - hitbox 2 y pos -5 -> -3
+
+uair
+- increased endlag (fsm=.8)
+
+fair
+- most distant hitbox size 5 -> 3.6
+- second hitbox X pos -4 -> -2
+
+Aura:
+- Cap 1.0 max, .6 min -> 3.0 max, 1.0 min
+- Stock scaling removed
+- Aura scaling changed to 1.0 min, 1.0 baseline at 998%, 3.0 at 999%

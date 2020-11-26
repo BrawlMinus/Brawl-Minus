@@ -1,0 +1,20 @@
+Green missile:
+	- Nerfed first hitbox knockback a bit.
+	
+	- Added 2 secondary hitboxes to the move. Now has 3 total, descending in power. 
+	While the first hitbox is really strong, the second and third are incrementally weaker.
+	the second hitbox comes out frame 24, and the last comes out on frame 36. there is only
+	ever 1 hitbox active, the others are removed before the others come out
+
+	- Now loses most of his momentum if he connects with a shielding opponent.
+	
+Super Jump Punch
+	-nerfed standard hitbox a bit, killing off the top at anything about 60 was a bit much for luigi's damage output and air to ground transition. (shoryuken hitbox untouched)
+
+Final Smash
+TIME HAS STOPPED!
+Welcome to MINUS WORLD.
+Everything but Luigi is now completely frozen in time.
+His foes cannot escape anything coming to them.
+They won’t even realize they’ve been KO’d.
+Time flows again.

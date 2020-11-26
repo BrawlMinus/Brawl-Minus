@@ -1,0 +1,5 @@
+Dash Attack
+Added intangibility so to prevent her from being hit while invisible.
+
+Up B
+Intangibility restored to prevent her from being hit while invisible. 0.8 FSM added after hitbox terminates to add endlag making it more punishable.

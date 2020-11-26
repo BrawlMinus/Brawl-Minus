@@ -1,0 +1,5 @@
+fSmash
+Explosion readded
+
+Royal Rampage
+Royal Rampage immediately enters endlag when walking offstage.

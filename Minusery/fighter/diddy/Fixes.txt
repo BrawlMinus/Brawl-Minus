@@ -1,0 +1,10 @@
+fSmash
+Grab cancel is now only on-hit
+
+Dair
+Auto-Cancel Frame 33 -> 30
+
+
+Rocketbarrel Jetpack
+-No longer goes into Special Fall, can only be used once per airtime
+-End animation changed to reflect this.

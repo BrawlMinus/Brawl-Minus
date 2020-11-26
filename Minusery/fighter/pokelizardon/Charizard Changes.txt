@@ -1,0 +1,9 @@
+Charizard
+-Remapped Stealth Rock to Down Special and added B Reversing.
+-Changed Side Special to Dragon Rush. Dragon Rush is a horizontal recovery move with mild heavy armor and hits multiple times.
+-UpB ledgesnap changed from 9-4
+-Fair redesigned to be smaller but slower, and stronger.
+
+Final Smash
+Is now Blast Burn Blitz
+Charizard fires off 10 non-aimed Blast Burns in rapid succession! use this move wisely!

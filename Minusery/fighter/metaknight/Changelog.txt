@@ -1,0 +1,8 @@
+Dimensional Cape:
+Sweetspot kbg 101 -> 95
+
+Drill Rush:
+Startup 15 frames -> 17 frames
+Endlag 8 (on final hitbox hit)/30 -> 15
+Final hit knockback 1 WBK -> 50 BKB
+Now transitions into grounded ending animation when landing

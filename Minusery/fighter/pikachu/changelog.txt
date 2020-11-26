@@ -1,0 +1,6 @@
+Skull Bash
+Wall jump cancel added
+
+Fsmash
+Looping hits removed (always strong hit)
+Final hit damage 10 -> 17, shield damage 0 -> 12, kbg 116 -> 80

@@ -1,0 +1,48 @@
+===============================8/18/2016=========================================
+
+- ASF1nk //
++Added:
+ - Stock matches use "Choose your Character" 
+ - Main Menu Entry SFX 
+
+
+
+============================== 8/1/2016 =========================================
+
+fixed PT classic mode crashes.
+Added code to fixe some SSE stuff
+
+============================== 8/1/2016 =========================================
+Updated Gandouken code to shrink hitbox size
+
+====================Sometime before organization existed========================= 
+
+General Changes:
+ - Updated Custom Random code to support M2 and Waluigi, as well as made it land on Independent pokemon instead of PT
+
+ - Updated CSS to include Mewtwo and Waluigi
+
+ - Replaced old dashdance code with single write to increase dashdance window from 6->12
+
+ - Base Shield pushback 0.2 -> 0.05
+
+ - Shield Degeneration 0.28 -> 0.16
+ 
+ - Dashes can now be buffered
+ 
+Physics changes:
+    - Fall speed 1.1 -> 1.05
+    - Fast fall speed 1.1 -> 1.0
+    - Hop v velocity 1.0 -> 1.05
+    - Jump v velocity 1.0 -> 1.05
+
+Shield stun:
+    - Calculation accuracy increased. This results in shield stun being 0-3 frames higher depending on the damage percent.
+
+Respawn invincibility:
+    - Reverted to vBrawl
+    - While the beta codeset was good to keep invuln from being abused, it also forced players trying to get back on their feet right back into their opponent's pressure, so we didn't find this change to be a good fit.
+
+Ledge invincibility:
+    - 16 -> 20 (vBrawl's is 23)
+

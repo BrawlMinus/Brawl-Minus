@@ -1,0 +1,14 @@
+nAir, bAir
+Kill power reduced
+
+dAir
+Jump Cancel moved from frame 15 -> 19
+
+Ice Arrows
+Are now flinchless when on the ground
+
+Bommerang
+KO Power reduced, KB Angle changed to be less vertical
+
+Bombs
+Pull speed reduced from x1.7 FSM to x1.6

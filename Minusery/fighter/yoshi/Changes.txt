@@ -1,0 +1,2 @@
+Can no longer jump in the air for 20 frames after your previous jump.
+This is to prevent Yoshi players from accidentally wasting both of their midair jumps.

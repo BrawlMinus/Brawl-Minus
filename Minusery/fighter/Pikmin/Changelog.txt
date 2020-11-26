@@ -1,0 +1,2 @@
+pikmin toss
+   - Cancel moved back 3 frames (18 -> 21)

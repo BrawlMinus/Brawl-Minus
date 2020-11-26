@@ -1,0 +1,9 @@
+Side Taunt
+-Animation reverted back to Brawl animation to fix animation issues.
+-0.4* Frame Speed Modifier added on Frame 41 until Frame 61 (making the wait between the two Frame points about 50 Frames).
+-Metal is activated on Frame 72 (technically Frame 132).
+-Can interrupt on Frame 81 (technically Frame 141)
+-Total length increased to about 160 Frames from 150 Frames.
+
+AI
+-Will now use the double UpB if he is below the edge

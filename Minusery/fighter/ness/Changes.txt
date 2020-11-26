@@ -1,0 +1,8 @@
+PK Flash
+No longer goes into Special Fall
+
+PK Thunder 1
+Added a small pulsing hitbox around Ness that can repel foes. This hitbox comes up every 15 frames and deals small damage and knockback.
+
+uTaunt
+Press A to OKAY! moved here from side taunt

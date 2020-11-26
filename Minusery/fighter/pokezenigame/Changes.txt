@@ -1,0 +1,6 @@
+Improved entry animation
+
+Now has a grounded variation of Aqua Jet (DownB)
+
+Final Smash is now Whirlpool
+Squirtle creates a deadly whirlpool around him that traps foes inside. He can move along the ground while using this move.

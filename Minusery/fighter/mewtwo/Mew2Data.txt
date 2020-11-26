@@ -1,0 +1,23 @@
+All Sfx done outside of subroutines. Using Galleom data (replace Pichu)
+
+(Remaining work)
+Finalize attributes
+gfx and flags
+Redo SFX IDs to not be over Galleom
+
+PSA Attack100, Throws, Neutral B, Side B, and Down B.
+
+KOs At
+Utilt- 116
+
+Fsmash- 103
+Usmash- 102
+Dsmash- 80
+
+Fair- 96
+Dair- 114
+
+Fthrow
+Bthrow- 117
+Uthrow- 118
+

@@ -1,0 +1,37 @@
+Up Smash
+Reworked, is now a single sweeping hit
+
+Neutral Air
+Damage increased on sweetspot by 2% on both swings
+Landing lag reduced by 5 frames
+
+Forward Air
+Ending lag reduced by 5 frames
+Landing lag reduced by 4 frames
+
+Up Air
+Added Fire GFX when using the attack
+Ending lag reduced by 2 frames
+
+Down Air
+Ending lag reduced by 3 frames
+
+F-throw
+Angle changed from 50- 60.
+
+U-throw
+Kbg reduced by 20.
+
+Flame Dash
+Fixed his facial expression
+
+Blazer
+Last hit Bkb reduced by 40
+Last hit Kbg increased by 39
+Last hit damage increased by 2%
+
+Final Smash
+Roy can no longer heal into negative percents
+
+Results Screen
+Roy is no longer a manlet

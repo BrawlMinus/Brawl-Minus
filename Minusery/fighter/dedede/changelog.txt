@@ -1,0 +1,5 @@
+Standing grab
+Active frames 4-6 -> 6-8
+
+waddle toss
+   - Slowed endlag a bit (fsm 2.5 -> 2.2)

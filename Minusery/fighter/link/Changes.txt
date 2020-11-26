@@ -1,0 +1,1 @@
+Item Throw Power reduced from 1.5 to 1.25
